@@ -1,0 +1,198 @@
+.header-section{
+	position: relative;
+	background: url(../images/banner1.jpg);
+	height: 650px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#owrk {
+}
+
+.logo{
+	margin-top: 100px;
+}
+
+.slidet-content h1{
+	    font-size: 59px;
+	    font-weight: 700;
+	    margin-top: 110px;
+}
+
+.slidet-content p {
+	    font-size: 20px;
+	    padding: 0px 37px;
+	    margin-top: 25px;
+}
+
+.slidet-content span{
+	    color: rgb(242, 96, 17);
+
+}
+
+#team {margin-bottom: 20px;}
+
+
+#contact {
+}
+
+.header-section {
+
+
+
+}
+
+.container {
+}
+
+.row {
+}
+
+.col-sm-12 {
+}
+
+.slidet-content {
+    position: absolute;
+    color: #fffefe;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn.btn-success {
+	    background-color: #f7600e;
+	    border: none;
+	    text-transform: uppercase;
+	    padding: 20px 100px;
+	    border-radius: 10px;
+	    margin-top: 50px;
+	    font-size: 25px;
+}
+
+.arrow {
+	position: absolute;
+	/* bottom: 0; */
+	right: 50%;
+	top: 121%;
+}
+
+.header {
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	/*color: #f9f9f9;*/
+}
+.header h1 {
+	text-transform: uppercase;
+}
+
+.header span {
+	color: #f7600e;
+}
+.header p {}
+.col-sm-4 {
+}
+
+.work-img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.work-button{
+	
+}
+.work-button button{
+padding: 15px 80px;
+margin-top: 20px;
+background: white;
+border-radius: 10px;
+text-transform: uppercase;
+border-style: double;
+}
+
+.team-img{
+	
+}
+.team-img img:hover{
+
+}
+
+
+
+.caption {
+	
+}
+
+.col-sm-8 {
+}
+
+.col-sm-6 {
+}
+
+.form-group {
+}
+
+.form-control {
+}
+
+.button {
+}
+.contact-section{
+	background: url(../images/f1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+.contact-section .header{
+	color: #fff;
+	
+}
+.header h1{
+	
+}
+.header p{
+
+}
+.overlay{
+	position: absolute;
+	background-color: rgba(56, 59, 60, 0.85);
+	left: 0;
+	top: 0;
+	width: 1263px;
+	height: 499px;
+}
+
+.footer-button{
+	
+}
+.footer-button button{
+	
+background: #f7600e;
+	
+padding: 15px 60px;
+	
+border-color: transparent;
+	
+border-radius: 5px;
+	
+margin: 10px 0 20px 15px;
+	
+color: #fcfdfd;
+	
+font-size: 20px;
+}
+
+
+footer{
+background-color: #28333c;
+color: aliceblue;
+}
+.footer-2{
+}
+.footer-2 p{
+	text-transform: uppercase;
+
+margin-top: 15px;
+
+margin-bottom: 15px;
+}
